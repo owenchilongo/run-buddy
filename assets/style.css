@@ -59,7 +59,7 @@ section {
 }
 /* Hero Style Start */
 .hero {
-    background-image: url("../images/hero-bg.jpeg");
+    background-image: url("../assets/images/hero-bg.jpeg");
     height: 600px;
     background-size: cover;
     background-position: center;
@@ -166,7 +166,6 @@ section {
     margin: 0 auto 30px auto;
     background: #024e76;
     color: #fce138;
-    overflow: auto;
 }
 .trainer img {
     width: 35%;
